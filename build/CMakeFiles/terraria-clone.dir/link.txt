@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/terraria-clone.dir/src/init.cpp.o CMakeFiles/terraria-clone.dir/src/main.cpp.o CMakeFiles/terraria-clone.dir/src/player.cpp.o -o terraria-clone  -Wl,-rpath,/usr/local/lib /usr/local/lib/libraylib.so -L/usr/local/lib -lraylib 
